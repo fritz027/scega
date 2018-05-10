@@ -1,0 +1,8 @@
+[13-May-2017 15:01:58 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/scegacoo/public_html/beta/app/Console/Commands/Db_Refresh.php on line 68
+[13-May-2017 15:32:17 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/scegacoo/public_html/beta/app/Console/Commands/Db_Refresh.php on line 68
+[13-May-2017 15:32:27 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/scegacoo/public_html/beta/app/Console/Commands/Db_Refresh.php on line 68
+[13-May-2017 15:33:54 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/scegacoo/public_html/beta/app/Console/Commands/Db_Refresh.php on line 68
+[13-May-2017 15:35:19 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/scegacoo/public_html/beta/app/Console/Commands/Db_Refresh.php on line 68
+[13-May-2017 15:37:23 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/scegacoo/public_html/beta/app/Console/Commands/Db_Refresh.php on line 68
+[13-May-2017 10:58:37 CST6CDT] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/scegacoo/public_html/beta/app/Console/Kernel.php on line 31
+[14-May-2017 02:06:26 UTC] PHP Fatal error:  Class 'CreateLoanTable' not found in /home/scegacoo/public_html/beta/vendor/laravel/framework/src/Illuminate/Database/Migrations/Migrator.php on line 410

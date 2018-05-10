@@ -1,0 +1,29 @@
+{
+    "name": "crockett/csv-seeder",
+    "description": "Database seeding using CSV files",
+    "keywords": [
+        "laravel",
+        "csv",
+        "seed",
+        "seeds",
+        "seeder",
+        "seeding"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andy Crockett",
+            "email": "andyhcrockett@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "laravel/framework": ">=5.0.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Crockett\\CsvSeeder\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
